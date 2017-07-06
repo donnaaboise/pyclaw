@@ -15,6 +15,8 @@ from clawpack.pyclaw.fileio.ascii import write
 from clawpack.pyclaw.fileio.ascii import read
 from clawpack.pyclaw.util import read_data_line
 
+import forestclaw
+
 logger = logging.getLogger('pyclaw.fileio')
 
 
